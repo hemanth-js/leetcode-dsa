@@ -1,25 +1,7 @@
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-
-public class Solution {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.println("Enter array elements separated by spaces:");
-        String[] tokens = scanner.nextLine().trim().split("\\s+");
-        int[] nums = new int[tokens.length];
-        for (int i = 0; i < tokens.length; i++) {
-            nums[i] = Integer.parseInt(tokens[i]);
-        }
-
-        System.out.println("Enter target value:");
-        int target = Integer.parseInt(scanner.nextLine().trim());
-
-        int[] result = new Solution().twoSum(nums, target);
-        System.out.println("[" + result[0] + ", " + result[1] + "]");
-        scanner.close();
-    }
-
+// Note: LeetCode automatically creates the Solution object and calls this method.
+// To run this locally, you'll need to add a main() method and the necessary imports.
+//leetcode question: https://leetcode.com/problems/two-sum/description/
+class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
 
