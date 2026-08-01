@@ -1,0 +1,36 @@
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+public class Solution {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Enter array elements separated by spaces:");
+        String[] tokens = scanner.nextLine().trim().split("\\s+");
+        int[] nums = new int[tokens.length];
+        for (int i = 0; i < tokens.length; i++) {
+            nums[i] = Integer.parseInt(tokens[i]);
+        }
+
+        System.out.println("Enter target value:");
+        int target = Integer.parseInt(scanner.nextLine().trim());
+
+        int[] result = new Solution().twoSum(nums, target);
+        System.out.println("[" + result[0] + ", " + result[1] + "]");
+        scanner.close();
+    }
+
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer, Integer> map = new HashMap<>();
+
+        for (int i = 0; i < nums.length; i++) {
+            int complement = target - nums[i];
+            if (map.containsKey(complement)) {
+                return new int[] { map.get(complement), i };
+            }
+            map.put(nums[i], i);
+        }
+
+        throw new IllegalArgumentException("No match!");
+    }
+}
