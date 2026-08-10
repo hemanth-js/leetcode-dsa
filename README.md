@@ -22,6 +22,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -45,11 +46,13 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemanth-js/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -59,10 +62,12 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -72,4 +77,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/hemanth-js/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
