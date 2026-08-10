@@ -8,6 +8,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/hemanth-js/leetcode-dsa/tree/master/0027-remove-element) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1920-build-array-from-permutation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
