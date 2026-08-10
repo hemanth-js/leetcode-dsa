@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/hemanth-js/leetcode-dsa/tree/master/0027-remove-element) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/hemanth-js/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -66,4 +67,8 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1929-concatenation-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/hemanth-js/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
