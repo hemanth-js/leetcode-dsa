@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/hemanth-js/leetcode-dsa/tree/master/0027-remove-element) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/hemanth-js/leetcode-dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hemanth-js/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
@@ -76,6 +77,7 @@
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/hemanth-js/leetcode-dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 ## Matrix
