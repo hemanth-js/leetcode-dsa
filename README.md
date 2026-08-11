@@ -33,6 +33,7 @@
 ## String
 |  |
 | ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-js/leetcode-dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemanth-js/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -97,6 +98,7 @@
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/hemanth-js/leetcode-dsa/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-js/leetcode-dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
