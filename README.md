@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hemanth-js/leetcode-dsa/tree/master/0027-remove-element) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hemanth-js/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/hemanth-js/leetcode-dsa/tree/master/1389-create-target-array-in-the-given-order) |
@@ -130,6 +131,7 @@
 | [0367-valid-perfect-square](https://github.com/hemanth-js/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/hemanth-js/leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/hemanth-js/leetcode-dsa/tree/master/0441-arranging-coins) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/hemanth-js/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Interactive
 |  |
 | ------- |
