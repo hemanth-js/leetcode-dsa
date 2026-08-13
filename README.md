@@ -19,6 +19,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1929-concatenation-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hemanth-js/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemanth-js/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
@@ -40,6 +41,7 @@
 | ------- |
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-js/leetcode-dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hemanth-js/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemanth-js/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -137,4 +139,12 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemanth-js/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hemanth-js/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/hemanth-js/leetcode-dsa/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
