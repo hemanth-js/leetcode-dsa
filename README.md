@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/hemanth-js/leetcode-dsa/tree/master/0027-remove-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hemanth-js/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-js/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/hemanth-js/leetcode-dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hemanth-js/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -36,6 +37,7 @@
 | [0367-valid-perfect-square](https://github.com/hemanth-js/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hemanth-js/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-js/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/hemanth-js/leetcode-dsa/tree/master/1512-number-of-good-pairs) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
