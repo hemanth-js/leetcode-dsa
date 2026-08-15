@@ -11,6 +11,7 @@
 | [0867-transpose-matrix](https://github.com/hemanth-js/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-js/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/hemanth-js/leetcode-dsa/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hemanth-js/leetcode-dsa/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/hemanth-js/leetcode-dsa/tree/master/0027-remove-element) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemanth-js/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
@@ -116,6 +118,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/hemanth-js/leetcode-dsa/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-js/leetcode-dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -125,6 +128,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
@@ -143,6 +147,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/hemanth-js/leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/hemanth-js/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hemanth-js/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
