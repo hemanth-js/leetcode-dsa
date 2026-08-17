@@ -20,6 +20,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/hemanth-js/leetcode-dsa/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
+| [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hemanth-js/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/hemanth-js/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
@@ -46,6 +47,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-js/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/hemanth-js/leetcode-dsa/tree/master/1512-number-of-good-pairs) |
+| [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -76,6 +78,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemanth-js/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -94,6 +97,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
