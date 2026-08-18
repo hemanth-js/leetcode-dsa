@@ -8,6 +8,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/hemanth-js/leetcode-dsa/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0066-plus-one](https://github.com/hemanth-js/leetcode-dsa/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/hemanth-js/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hemanth-js/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0867-transpose-matrix](https://github.com/hemanth-js/leetcode-dsa/tree/master/0867-transpose-matrix) |
@@ -43,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/hemanth-js/leetcode-dsa/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/hemanth-js/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hemanth-js/leetcode-dsa/tree/master/0441-arranging-coins) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
