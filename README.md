@@ -35,6 +35,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/hemanth-js/leetcode-dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemanth-js/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hemanth-js/leetcode-dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hemanth-js/leetcode-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -55,6 +56,7 @@
 | [1512-number-of-good-pairs](https://github.com/hemanth-js/leetcode-dsa/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
 |  |
@@ -79,6 +81,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
 |  |
@@ -174,6 +177,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hemanth-js/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
 | ------- |
@@ -196,5 +200,10 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hemanth-js/leetcode-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
