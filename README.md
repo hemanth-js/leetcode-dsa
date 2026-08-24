@@ -28,6 +28,7 @@
 | [1672-richest-customer-wealth](https://github.com/hemanth-js/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/hemanth-js/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
+| [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
@@ -55,6 +56,7 @@
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/hemanth-js/leetcode-dsa/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hemanth-js/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -93,12 +95,14 @@
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemanth-js/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
@@ -107,12 +111,14 @@
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/hemanth-js/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/hemanth-js/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -120,6 +126,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
