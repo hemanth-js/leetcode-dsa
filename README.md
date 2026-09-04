@@ -44,6 +44,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/hemanth-js/leetcode-dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/hemanth-js/leetcode-dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/hemanth-js/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -124,6 +125,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/hemanth-js/leetcode-dsa/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/hemanth-js/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/hemanth-js/leetcode-dsa/tree/master/3903-smallest-stable-index-i) |
 ## Game Theory
 |  |
 | ------- |
