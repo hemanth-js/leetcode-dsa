@@ -74,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-js/leetcode-dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/hemanth-js/leetcode-dsa/tree/master/1927-sum-game) |
@@ -105,6 +106,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
