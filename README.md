@@ -38,6 +38,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/hemanth-js/leetcode-dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemanth-js/leetcode-dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/hemanth-js/leetcode-dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hemanth-js/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/hemanth-js/leetcode-dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -114,6 +115,7 @@
 | [1563-stone-game-v](https://github.com/hemanth-js/leetcode-dsa/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/hemanth-js/leetcode-dsa/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemanth-js/leetcode-dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
@@ -192,6 +194,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hemanth-js/leetcode-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemanth-js/leetcode-dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Counting
 |  |
 | ------- |
@@ -214,6 +217,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1539-kth-missing-positive-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1539-kth-missing-positive-number) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/hemanth-js/leetcode-dsa/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/hemanth-js/leetcode-dsa/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Interactive
 |  |
 | ------- |
