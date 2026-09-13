@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/hemanth-js/leetcode-dsa/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/hemanth-js/leetcode-dsa/tree/master/0238-product-of-array-except-self) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/hemanth-js/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/hemanth-js/leetcode-dsa/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/hemanth-js/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-js/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -159,6 +160,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/hemanth-js/leetcode-dsa/tree/master/0835-image-overlap) |
 | [0867-transpose-matrix](https://github.com/hemanth-js/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/hemanth-js/leetcode-dsa/tree/master/1672-richest-customer-wealth) |
