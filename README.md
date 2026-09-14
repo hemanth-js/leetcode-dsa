@@ -60,6 +60,7 @@
 | [0066-plus-one](https://github.com/hemanth-js/leetcode-dsa/tree/master/0066-plus-one) |
 | [0367-valid-perfect-square](https://github.com/hemanth-js/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/hemanth-js/leetcode-dsa/tree/master/0441-arranging-coins) |
+| [0836-rectangle-overlap](https://github.com/hemanth-js/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/hemanth-js/leetcode-dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1510-stone-game-iv](https://github.com/hemanth-js/leetcode-dsa/tree/master/1510-stone-game-iv) |
@@ -275,4 +276,8 @@
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/hemanth-js/leetcode-dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/hemanth-js/leetcode-dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
