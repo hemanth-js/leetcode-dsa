@@ -90,6 +90,7 @@
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-js/leetcode-dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/hemanth-js/leetcode-dsa/tree/master/1927-sum-game) |
@@ -105,6 +106,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -198,6 +200,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
@@ -215,6 +218,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/hemanth-js/leetcode-dsa/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/hemanth-js/leetcode-dsa/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/hemanth-js/leetcode-dsa/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -291,6 +295,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/hemanth-js/leetcode-dsa/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -308,4 +313,8 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/hemanth-js/leetcode-dsa/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
