@@ -89,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
@@ -316,5 +317,10 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
