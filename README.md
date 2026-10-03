@@ -91,6 +91,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/hemanth-js/leetcode-dsa/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -321,10 +323,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
