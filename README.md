@@ -92,6 +92,7 @@
 | [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-js/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
@@ -326,6 +327,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-js/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
@@ -334,5 +336,6 @@
 | [0020-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-js/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
