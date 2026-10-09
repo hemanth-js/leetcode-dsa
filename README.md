@@ -97,6 +97,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hemanth-js/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1773-count-items-matching-a-rule](https://github.com/hemanth-js/leetcode-dsa/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hemanth-js/leetcode-dsa/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/hemanth-js/leetcode-dsa/tree/master/1927-sum-game) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-js/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/hemanth-js/leetcode-dsa/tree/master/1386-cinema-seat-allocation) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hemanth-js/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/hemanth-js/leetcode-dsa/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/hemanth-js/leetcode-dsa/tree/master/2029-stone-game-ix) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/hemanth-js/leetcode-dsa/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -332,6 +334,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-js/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/hemanth-js/leetcode-dsa/tree/master/1096-brace-expansion-ii) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hemanth-js/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -341,4 +344,5 @@
 | [0856-score-of-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/hemanth-js/leetcode-dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/hemanth-js/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/hemanth-js/leetcode-dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
